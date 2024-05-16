@@ -17,7 +17,7 @@ body {
     height: auto;
   }
 
-.container {
+.content-container {
     display: flex;
     gap: 30px;
     margin-bottom: 40px;
@@ -48,11 +48,6 @@ input[type="file"] {
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
-}
-
-.descriptions { 
-    display : flex;
-justify-content: center
 }
 
 .menu-container {
